@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: de.redsix.pdfcompare.IntegrationTest
+-------------------------------------------------------------------------------
+Tests run: 12, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 34.476 s - in de.redsix.pdfcompare.IntegrationTest
